@@ -1,0 +1,12 @@
+# Question 20
+print("2 + 3 * 4            =", 2 + 3 * 4)
+print("(2 + 3) * 4          =", (2 + 3) * 4)
+print("2 ** 3 ** 2          =", 2 ** 3 ** 2)
+print("-2 ** 2              =", -2 ** 2)
+print("10 - 4 - 3           =", 10 - 4 - 3)
+print("20 / 4 * 2           =", 20 / 4 * 2)
+print("5 + 3 > 7 and 2 < 1  =", 5 + 3 > 7 and 2 < 1)
+print("not True or True     =", not True or True)
+print("True or False and False =", True or False and False)
+print("1 | 2 & 3            =", 1 | 2 & 3)
+print("5 + 2 << 1           =", 5 + 2 << 1)
